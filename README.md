@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric Gomes
-- 👀 I’m interested in Full Stack, Mobile App Development & Software Engineering.
+- 👀 I’m interested in Full Stack & Mobile App Development.
 - 🌱 I’m currently learning Javascript, Dart and Python.
 - 💞️ I’m looking to collaborate on all kinds of projects and products.
 - 📫 You can reach me through my Twitter @GomesNEric.
