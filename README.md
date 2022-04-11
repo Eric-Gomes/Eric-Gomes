@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full Stack & Mobile App Development.
 - 🌱 I’m currently learning Javascript, Dart and Python.
 - 💞️ I’m looking to collaborate on Web Development projects and products.
-- 📖 I'm currently reading "The pragmatic Porgrammer" 
 - 📫 You can reach me through my Twitter @GomesNEric.
 
 <!---
