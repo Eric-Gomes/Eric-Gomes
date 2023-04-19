@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Eric Gomes
-- 👀 I’m interested in Full Stack & Mobile App Development.
-- 🌱 I’m currently learning Javascript, Dart and Python.
-- 💞️ I’m looking to collaborate on Web Development projects and products.
+- 👋 Hi, I’m Eric. 
+- 👀 Working as a Freelance Full Stack & Mobile App Development.
+- 🌱 I’m currently using Javascript and Dart to create Websites and Applications
 - 📫 You can reach me through my Twitter @GomesNEric.
+
 
 <!---
 Eric-Gomes/Eric-Gomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
