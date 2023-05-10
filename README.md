@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric. 
-- 👀 Working as a Freelance Full Stack & Mobile App Development.
-- 🌱 I’m currently using Javascript and Dart to create Websites and Applications
+- 👀 Working as a Freelance Full Stack & Mobile App Developer.
+- 🌱 I’m currently using Javascript and Dart to create Websites and Applications.
 - 📫 You can reach me through my Twitter @GomesNEric.
 
 
