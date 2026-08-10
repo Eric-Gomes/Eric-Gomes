@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Eric. 
-- 👀 Working as a Freelance Full Stack & Mobile App Developer.
-- 🌱 Next.js for Website Production.
-- Dart with Flutter for Mobile Applications.
-- C++ for Embedded Systems.
+- 👀 Working as an AI Builder.
 - 📫 You can reach me through my Twitter @GomesNEric.
 
 
